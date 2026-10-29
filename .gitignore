@@ -1,0 +1,11 @@
+.venv/
+.env
+__pycache__/
+deployment.json
+runtime-output.json
+*.zip
+.aws/
+.codex/
+.agents/
+*.bundle
+outputs/live/
